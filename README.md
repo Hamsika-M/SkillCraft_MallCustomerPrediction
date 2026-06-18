@@ -194,7 +194,7 @@ http://localhost:8501
 - Deployment: Streamlit Documentation
 
 ## 👤 Intern Details
-- **Name:** Sangisetti Venkata Charan Bhargav
+- **Name:** Medipalli Satya Sreepradha Hamsika
 - **Internship:** SkillCraft Technology
 - **Task:** 02 — K-Means Clustering
 - **Domain:** Machine Learning
